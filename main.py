@@ -1,5 +1,4 @@
 def filter_list():
-    return 'filtered contents'
-
+    return 'filtered contents again'
 
 filter_list()
